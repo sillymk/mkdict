@@ -112,7 +112,7 @@ For higher quality or comparison translations, add API keys in Settings:
 
 If Mkdict saves you time and helps your language learning, consider buying me a coffee!
 
-[!\[ko-fi\]\(https://ko-fi.com/img/githubbutton_sm.svg\)](https://ko-fi.com/mkdict)
+[!\[ko-fi\]\(https://ko-fi.com/mkdict\)](https://ko-fi.com/mkdict)
 
 Every coffee helps keep this project maintained and improved. 🙏
 
