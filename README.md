@@ -8,6 +8,18 @@
 
 ---
 
+## 📥 Download
+
+Download the latest version from the [**Releases**](../../releases) page.
+
+| Platform | File             | Architecture          |
+|----------|------------------|-----------------------|
+| macOS    | `.dmg`           | Apple Silicon (ARM64) |
+| Windows  | `.msi` or `.exe` | x64                   |
+| Linux    | `.AppImage`      | x64                   |
+
+---
+
 ## ✨ Features
 
 ### 📖 Dictionary
@@ -54,17 +66,6 @@
 
 ---
 
-## 📥 Download
-
-Download the latest version from the [**Releases**](../../releases) page.
-
-| Platform | File             | Architecture          |
-|----------|------------------|-----------------------|
-| macOS    | `.dmg`           | Apple Silicon (ARM64) |
-| Windows  | `.msi` or `.exe` | x64                   |
-| Linux    | `.AppImage`      | x64                   |
-
----
 
 ## 🚀 Getting Started
 
