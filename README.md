@@ -21,6 +21,10 @@ Download the latest version from the [**Releases**](../../releases) page.
 
 ---
 
+## How to use
+
+![How to use Mkdict](assets/mkdict-features.png)
+
 ## ✨ Features
 
 ### 📖 Dictionary
@@ -110,9 +114,6 @@ For higher quality or comparison translations, add API keys in Settings:
 
 ---
 
-## How to use
-
-![How to use Mkdict](assets/mkdict-features.png)
 
 ## ☕ Support
 
